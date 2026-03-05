@@ -1,0 +1,3 @@
+[submodule "axi_msic"]
+	path = axi_msic
+	url = https://github.com/mausys/axi_msic.git
